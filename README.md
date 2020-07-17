@@ -2,5 +2,5 @@
 
 ## Site under construction  
 
-I'm a current graduate student at University of Toronto. My current research is focused on attentional guidance and visual search.
-![me_img](/pics/avtr.jpg "J. Adema")
+I'm a current graduate student at University of Toronto, studying under the supervising of Dr. Michael Mack (http://macklab.utoronto.ca/). My current research is focused on attentional guidance and visual search.
+![image alt >](/pics/avtr.jpg "J. Adema")
