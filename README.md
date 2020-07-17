@@ -1,3 +1,3 @@
-![bannerpng](/pics/banner.png "banner")  
+![bannerpng](/pics/banner.png)   
 
 ![me_img](/pics/avtr.jpg "J. Adema")
