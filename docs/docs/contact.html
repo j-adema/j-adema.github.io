@@ -1,0 +1,20 @@
+# Contact
+
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSfYd59Tfk6Xj5Ze4N19SvS0udRLm6xzXYvjWaqYpiWD_amM9w/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+  First name:<br>
+  <input type="text" name="entry.1439073749" id="entry.1439073749"><br>
+  Last name:<br>
+  <input type="text" name="entry.486283428" id="entry.486283428">
+  <input type="submit" value="Submit">
+</form>
+
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Thank you! Your message has been submitted.');
+  });
+</script>
