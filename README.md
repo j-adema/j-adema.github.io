@@ -6,6 +6,8 @@ Link to preregistrations [here](https://osf.io/ryb4m/registrations) <img src="ht
 
 ## What's new?
 [See recent news here](https://j-adema.github.io/news/)
+<br/>
+<br/>
 
 ## Let's connect
 | | |
