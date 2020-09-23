@@ -1,5 +1,6 @@
 ## Current Research
-At the moment, I'm testing how providing varying degrees of semantic information in scene search previews affects search efficiency and learning rate. This is a follow-up to my Master's research (PDF coming soon).  
+At the moment, I'm testing how providing varying degrees of semantic information in scene search previews affects search efficiency and learning rate. This is a follow-up to my Master's research (PDF coming soon).
+<br/>
 Link to preregistrations [here](https://osf.io/ryb4m/registrations) <img src="https://theme.zdassets.com/theme_assets/9177534/7beea9f55b8eba9a9db7d195c5bacf88f23384fd.png" width="50"> 
 
 ## What's new?
