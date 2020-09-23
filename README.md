@@ -1,6 +1,7 @@
-## Site under construction  
+## What's new?
+[See recent news here](https://j-adema.github.io/news/)
 
-### Let's connect
+## Let's connect
 
 | | |
 |-|-|
