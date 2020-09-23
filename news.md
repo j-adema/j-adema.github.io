@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+# NEWS
+
 ## Master's work to be presented at OPAM 2020
 Poster PDF will be uploaded!
 <br/>
