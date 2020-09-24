@@ -6,8 +6,15 @@ permalink: /news/
 
 # NEWS
 
+## Mack Lab at Virtual Psychonomics 2020
+I am pleased to announce that we will be presenting further work on computational model-based fMRI at this year's annual meeting of the Psychonomic Society!<br/>
+<img src='https://cdn.ymaws.com/psychonomic.site-ym.com/graphics/logo.png'>
+<br/>
+<br/>
+
 ## Master's work to be presented at OPAM 2020
-Poster PDF will be uploaded!
+Poster PDF and video walkthrough will be uploaded!<br/>
+<img src='http://www.opam.net/wp-content/uploads/2020/07/cropped-opambanner_virtualtop-3.png' width='200'>
 <br/>
 <br/>
 
