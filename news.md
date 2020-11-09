@@ -6,6 +6,14 @@ permalink: /news/
 
 # NEWS
 
+## OPAM poster can be viewed online!
+Check out my poster at this year's virtual OPAM conference!
+If you want to talk to me about this research, I'm hosting a Zoom call on November 19th from 12:30 pm-1:15 pm EST. DM (@j_adema_) or email me for details! <br/>
+The poster can be viewed [here](https://osf.io/n6kgp/) <br/>
+<img src='http://www.opam.net/wp-content/uploads/2020/07/cropped-opambanner_virtualtop-3.png' width='200'>
+<br/>
+<br/>
+
 ## Mack Lab at Virtual Psychonomics 2020
 I am pleased to announce that we will be presenting further work on computational model-based fMRI at this year's annual meeting of the Psychonomic Society!<br/>
 <img src='https://cdn.ymaws.com/psychonomic.site-ym.com/graphics/logo.png'>
