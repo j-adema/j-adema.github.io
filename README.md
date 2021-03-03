@@ -2,9 +2,14 @@
 At the moment, I'm testing how providing varying degrees of semantic information in scene search previews affects search efficiency and learning rate. This is a follow-up to my Master's research which you can find [here](https://tspace.library.utoronto.ca/handle/1807/103219).
 <br/>
 <br/>
-Link to preregistrations [here](https://osf.io/ryb4m/registrations) <img src="https://theme.zdassets.com/theme_assets/9177534/7beea9f55b8eba9a9db7d195c5bacf88f23384fd.png" width="50"> 
+Link to preregistrations [here](https://osf.io/ryb4m/registrations) <img src="https://theme.zdassets.com/theme_assets/9177534/7beea9f55b8eba9a9db7d195c5bacf88f23384fd.png" width="50"> <br/>
+
+### Computational modeling
+- I'm working on improving my implementation of the exemplar-based random walk (EBRW) model with a perceptual frontend (VGG16). <br/>
+- I've starting working with [Dr. Keisuke Fukuda](https://fukudalab.org/) for my outside project, combining behavioural measures, EEG, and drift-diffusion modeling (DDM). 
 
 ## What's new?
+Check here for upcoming conference presentations and recent publications.<br/>
 [See recent news here](https://j-adema.github.io/news/)
 <br/>
 <br/>
