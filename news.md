@@ -6,6 +6,12 @@ permalink: /news/
 
 # NEWS
 
+## Presenting at V-VSS 2021
+I'll be presenting more work on gist-guided attention at this year's virtual VSS conference. Drop by during the "Visual search" poster session on Wednesday, May 26, 2021, from 8:00 - 10:00 am EDT. <br/>
+<img src='https://www.visionsciences.org/wordpress/wp-content/uploads/2015/09/VSS_logo_color_60.png' width='150'>
+<br/>
+<br/>
+
 ## OPAM poster can be viewed online!
 Check out my poster at this year's virtual OPAM conference!
 If you want to talk to me about this research, I'm hosting a Zoom call on November 19th from 12:30 pm-1:15 pm EST. DM (@j_adema_) or email me for details! <br/>
