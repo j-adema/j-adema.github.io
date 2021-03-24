@@ -6,7 +6,7 @@ Link to preregistrations [here](https://osf.io/ryb4m/registrations) <img src="ht
 
 ### Computational modeling
 - I'm working on improving my implementation of the exemplar-based random walk (EBRW) model with a perceptual frontend (VGG16). <br/>
-- I've starting working with [Dr. Keisuke Fukuda](https://fukudalab.org/) for my outside project, combining behavioural measures, EEG, and drift-diffusion modeling (DDM). 
+- I've started working with [Dr. Keisuke Fukuda](https://fukudalab.org/) for my outside project, combining behavioural measures, EEG, and drift-diffusion modeling (DDM). 
 
 ## What's new?
 Check here for upcoming conference presentations and recent publications.<br/>
