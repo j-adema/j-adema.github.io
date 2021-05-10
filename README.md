@@ -5,7 +5,7 @@ At the moment, I'm testing how providing varying degrees of semantic information
 Link to preregistrations [here](https://osf.io/ryb4m/registrations) <img src="https://theme.zdassets.com/theme_assets/9177534/7beea9f55b8eba9a9db7d195c5bacf88f23384fd.png" width="50"> <br/>
 
 ### Computational modeling
-- I'm working on improving my implementation of the exemplar-based random walk (EBRW) model with a perceptual frontend (VGG16). <br/>
+- I'm working on improving my implementation of the exemplar-based random walk (EBRW) model with a perceptual frontend (VGG16). *See our proceedings paper at this year's meeting of the Cognitive Science Society!* <br/>
 - I've started working with [Dr. Keisuke Fukuda](https://fukudalab.org/) for my outside project, combining behavioural measures, EEG, and drift-diffusion modeling (DDM). 
 
 ## What's new?
