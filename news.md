@@ -6,6 +6,11 @@ permalink: /news/
 
 # NEWS
 
+## Poster and Proceedings at Virtual CogSci 2021
+Look out for developments in my Python implementation of EBRW at this year's meeting of the Cognitive Science Society. We will be publishing a paper in the conference proceedings, as well as presenting a poster summarising our approach (date and time TBA). <br/>
+I'd like to thank by research assistants (and co-authors!), **Shuran (Rayna) Tang** and **Nahal Alizadeh-Saghati**, for all of their help getting this together. <br/>
+<br/>
+
 ## Presenting at V-VSS 2021
 I'll be presenting more work on gist-guided attention at this year's virtual VSS conference. Drop by during the "Visual search" poster session on Wednesday, May 26, 2021, from 8:00 - 10:00 am EDT. <br/>
 <img src='https://www.visionsciences.org/wordpress/wp-content/uploads/2015/09/VSS_logo_color_60.png' width='150'>
